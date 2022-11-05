@@ -1,4 +1,4 @@
-# Solation: Solar Exploration in 3D
+# Solex: Solar Exploration in 3D
 
 ## Inspiration
 
@@ -12,4 +12,4 @@
 
 ## What we learned
 
-## What's next for Solation
+## What's next for Solex
