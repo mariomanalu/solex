@@ -12,4 +12,4 @@
 
 ## What we learned
 
-## What's next for Solearn
+## What's next for Solation
