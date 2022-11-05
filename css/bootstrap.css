@@ -5095,6 +5095,11 @@ footer a {
   background-color: #ffffff;
   padding: 1.52rem;
   box-shadow: 0 8px 24px 0 rgba(0, 0, 0, 0.1); }
+
+.code-window img{
+  width: 100%;
+}
+  
   .code-window .dots {
     display: -ms-flexbox;
     display: flex;
