@@ -1,4 +1,4 @@
-# Solearn: Learn the Solar System in 3D
+# Solation: Solar Exploration in 3D
 
 ## Inspiration
 
