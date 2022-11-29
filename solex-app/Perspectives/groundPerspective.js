@@ -27,7 +27,7 @@ export function showGroundView(currentPlanet) {
 
   let controls = new OrbitControls(camera, renderer.domElement);
   controls.minDistance = 500;
-  controls.maxDistance = 1500; // ethan could use these to not allow people to zoom out so far
+  controls.maxDistance = 1500; // could use these to not allow people to zoom out so far
 
   let texture_bk;
   let texture_ft;
